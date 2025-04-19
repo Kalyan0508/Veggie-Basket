@@ -26,7 +26,7 @@ Veggie-Basket/ ├── backend/ # Node.js + Express server │ └── serve
 
 ### 1. Clone the repository
 
-git clone https://github.com/your-username/Veggie-Basket.git
+git clone https://github.com/Kalyan0508/Veggie-Basket.git
 cd Veggie-Basket
 
 ## Set up Backend
